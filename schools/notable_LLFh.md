@@ -1,4 +1,4 @@
-# LLFの重要人物
+# LLFhの重要人物
 
 ## qa'd skarsiv(双子のスカージヴ)
 skarsna ivane ludiexafaとskarsna ivane ludiexafisの双子。1965年生まれ。ともにヴェフィス国立研究院大学で教法学史やレヴェン哲学を学び、大学卒業後はludiexafaはレヴェン的ステデラフ教法学研究の道に、ludiexafisはレヴェン思想についての啓蒙書の執筆など活動に進んだ。VASPの教法学関係の記事にはludiexafis執筆 ludiexafa監修のものが多い。
