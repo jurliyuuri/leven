@@ -1,0 +1,10 @@
+'''ラ・レヴェネゼー'''([[リパライン語]]: la leveneser)とは、[[レシェール・ヴェンタフ|レヴェン思想]]をしばしば曲解しながらcherry-pickingし理論武装を組み立てる反体制派の総称である。人一倍緻密な議論で知られる法哲学者のレヴェンを援用しているため、見かけ上緻密な理論武装がなされることが特徴である。そのためオルグの説得力が増すのか反体制派の中では勢力を拡大させやすい傾向にあり、近年社会問題となっている。
+
+==出典==
+* レシェール・ヴェンタフ - リパライン倉庫 [[https://sites.google.com/site/riparaincangku/yuesureone-ren-gong-shi-jie-she-ding/yang-na-wen-hua/nediet-larta/lv]]
+* レヴェンに関するGitHubリポジトリ [[https://github.com/jurliyuuri/leven]]
+
+{{template:スタブ}}
+
+[[Category:思想]]
+[[Category:レヴェン]]
